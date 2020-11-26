@@ -1,4 +1,4 @@
-module github.com/Geekoon/otus_golang_hw/tree/master/hw01_hello_now
+module github.com/Geekoon/otus_golang_hw/hw01_hello_now
 
 go 1.15
 
