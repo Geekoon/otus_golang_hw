@@ -3,6 +3,8 @@ package hw02_unpack_string //nolint:golint,stylecheck
 import (
 	"errors"
 	"strconv"
+	"strings"
+	"unicode"
 )
 
 var ErrInvalidString = errors.New("invalid string")
@@ -10,39 +12,37 @@ var ErrInvalidString = errors.New("invalid string")
 // Функция распаковки строки по указанному количеству повторений символов.
 func Unpack(a string) (string, error) {
 	var result string = ""
-	var takeLetter bool = true
+	var curLetter rune = 0
+	var resultErr error = nil
 
-	for id, v := range a {
-		if id == len(a)-1 {
-			// Обрабатываем последний символ в строке
-			if (v > 47) && (v < 58) {
-				return "", ErrInvalidString
-			} else {
-				result += string(v)
-			}
+	for _, v := range a {
+		//	fmt.Printf("%s = %d\n", string(v), v)
+
+		if unicode.IsDigit(v) && curLetter == 0 { //nolint
+			// Ошибка, если число вместо символа
+			result = ""
+			resultErr = ErrInvalidString
+			break
 		} else {
-			if takeLetter {
-				if (v > 47) && (v < 58) {
-					// Ошибка, если число вместо символа
-					return "", ErrInvalidString
-				} else {
-					// Если есть повторения, то узнаем их количество и записываем в результат
-					if (a[id+1] > 46) && (a[id+1] < 58) {
-						j, _ := strconv.Atoi(string(a[id+1]))
-						for k := 0; k < j; k++ {
-							result += string(v)
-						}
-						takeLetter = false
-					} else {
-						// Записываем одиночный символ
-						result += string(v)
-					}
-				}
+			if unicode.IsDigit(v) {
+				// Повторяем символ по числу после него
+				j, _ := strconv.Atoi(string(v))
+				result += strings.Repeat(string(curLetter), j)
+				curLetter = 0
 			} else {
-				// Пропускаем цифру
-				takeLetter = true
+				// Записываем одиночный символ
+				if curLetter != 0 {
+					result += string(curLetter)
+				}
+				curLetter = v // запоминаем символ на случай цифры после него
 			}
 		}
 	}
-	return result, nil
+
+	// Записываем последний символ, исключая нулевое значение руны
+	if !unicode.IsDigit(curLetter) && curLetter != 0 {
+		result += string(curLetter)
+	}
+
+	return result, resultErr
 }
