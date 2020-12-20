@@ -1,7 +1,6 @@
 package hw03_frequency_analysis //nolint:golint,stylecheck
 
 import (
-	"fmt"
 	"sort"
 	"unicode"
 )
@@ -20,7 +19,7 @@ func unpack(a string) []string {
 			continue
 		}
 
-		if findSpace {
+		if findSpace && curWord != "" {
 			result = append(result, curWord)
 			curWord = ""
 			findSpace = false
@@ -38,11 +37,11 @@ func unpack(a string) []string {
 func Top10(text string) []string {
 	s := unpack(text)
 	m := make(map[string]int)
-	fmt.Printf("%q\n", s)
+	//	fmt.Printf("%q\n", s)
 	for _, v := range s {
 		m[v] += 1
 	}
-	fmt.Println(m)
+	//	fmt.Println(m)
 
 	var r []struct {
 		w string
@@ -55,10 +54,10 @@ func Top10(text string) []string {
 		}{k, v}
 		r = append(r, a)
 	}
-	fmt.Println(r)
+	//	fmt.Println(r)
 
 	sort.Slice(r, func(i, j int) bool { return r[i].n > r[j].n })
-	fmt.Println(r)
+	//	fmt.Println(r)
 
 	//	fmt.Println(strings.Count(text, "он"))
 	h := 0
