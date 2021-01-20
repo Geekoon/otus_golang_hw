@@ -57,4 +57,48 @@ func TestTop10(t *testing.T) {
 			require.ElementsMatch(t, expected, Top10(text))
 		}
 	})
+
+	t.Run("text - one big word", func(t *testing.T) {
+		wt := "ЭтонеобыкновенноеимяподарилемуКристоферРобинНадовамсказатьчтокогдатоКристоферРобинбылзнакомсодним"
+		expected := []string{"ЭтонеобыкновенноеимяподарилемуКристоферРобинНадовамсказатьчтокогдатоКристоферРобинбылзнакомсодним"}
+		require.ElementsMatch(t, expected, Top10(wt))
+	})
+
+	t.Run("text - only spaces", func(t *testing.T) {
+		wt := "            "
+		require.Empty(t, Top10(wt))
+	})
+
+	t.Run("text - not letters", func(t *testing.T) {
+		wt := `//-\\+_^..$.";!|\/*`
+		expected := []string{`//-\\+_^..$.";!|\/*`}
+		require.ElementsMatch(t, expected, Top10(wt))
+	})
+
+	t.Run("text - a lot of non-letters words", func(t *testing.T) {
+		wt := `//-\\ +_^. ;!| .$." +_^. ;!| +_^. \/* ;!|`
+		expected := []string{`+_^.`, `;!|`, `//-\\`, `.$."`, `\/*`}
+		require.ElementsMatch(t, expected, Top10(wt))
+	})
+
+	t.Run("text - a lot of tabs, enters, spaces", func(t *testing.T) {
+		wt := `А  звали Винни - так 		звали самую
+		
+		лучшую, 			
+					  самую саду, - добрую медведицу			
+
+		в  его Винни зоологическом		  саду,  которую		    очень 		очень  любил
+		
+		
+		Кристофер  				         					Робин. Робин.   А саду,   
+		 она  		очень 	-	очень 	 любил  его`
+		expected := []string{"очень", "саду,", "-", "А", "его", "Робин.", "любил", "звали", "самую", "Винни"}
+		require.ElementsMatch(t, expected, Top10(wt))
+	})
+
+	t.Run("text - tabs in the begining", func(t *testing.T) {
+		wt := `		А А А`
+		expected := []string{"А"}
+		require.Equal(t, expected, Top10(wt))
+	})
 }
