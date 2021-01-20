@@ -5,7 +5,7 @@
 
 
 <!DOCTYPE html>
-<html lang="en" data-color-mode="light">
+<html lang="en" data-color-mode="light" data-light-theme="light" data-dark-theme="dark">
   <head>
     <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://github.githubassets.com">
@@ -18,32 +18,32 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-BSy+E+S5PJuDWKcXiIXBoFJ7uJ+88y6hFdIhZpf7nf9MVNVvnJDPUaotaxFUQi8UXCLJOcGv1uifxVMc9o5DYQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-052cbe13e4b93c9b8358a7178885c1a0.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-iXq7gWyFGst+X9fmk1/k0IvONDkHvOC5FbhmGboN5swSBtwWDalgpRfzX8LErcHD7QngdyLtrhnvAZ6RDlKN7Q==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-897abb816c851acb7e5fd7e6935fe4d0.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-PTAFChiWxdIDI/ve6njoqSdPQ3JEwsC8xCAXcTQtmWlAUvOE0r3hSOKM5n7d39gkQ42nsCcLELBb1CpcxqkKCg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-3d30050a1896c5d20323fbdeea78e8a9.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-Xat2sbQFQaavpEDy6RP+AjDR3vsBirMilF4FCV/XIoeZhmobX3P3gDFtVRyVkFT7w2uOrHS5r/kb+wTUbtId4Q==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-5dab76b1b40541a6afa440f2e913fe02.css" />
     
     
     
-    
+    <link crossorigin="anonymous" media="all" integrity="sha512-AWAVsrSXy5UAD/orUoYNImo/fwUfty+cOeTniiWLEWcfaAcLu8XwIKkTTnV5LPeWzKAp9aWg4kg61C3k3kNM8w==" rel="stylesheet" href="https://github.githubassets.com/assets/github-016015b2b497cb95000ffa2b52860d22.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-8K2vvwbW+6H27Nad5ydg8PA2/aMD/LKq+EiK9s0U0hhVZxCI2tWBsYk9beAtisRw2j+Or5k2/F+6dk02nmj/PA==" type="application/javascript" src="https://github.githubassets.com/assets/environment-f0adafbf.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-bf3k8Y60Hljk6JoJikJwUktgpWsNM3NEnNgmlScAD6u57WAUEgCSZh5BsU5ls8YxsL8cZUaKGHC5fsf143pfaw==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-6dfde4f1.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-emd0+v3abfzmBNLZSGdhJYZOGgH9LqlcgtVJq9cUcDWmQvrUXHMR5VJURVn+RhsmyYSfUvtsJgu5ET/U8WxkcQ==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-7a6774fa.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-TZfq2T+XE31Mcp17bGlABjjeQ/69IH2f/sBvS31c4Jua0e1O/NE+aVbQtItMM2GFlmeEm13p/zyyWGIx10jVKQ==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-4d97ead9.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-gkZCpFyYrX7ycwoeUW7Wyk7sg8OBhVVIA5gFuJfzX3jZcu1jiTPWWM749XEjX9pILro9F5+l+WUfz/MUpAwI0w==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-824642a4.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-8AfrMweoWNHRoryD8z1PitEl7k231VXaNWRgFrsDK6gXasZd+cK2EBk53BeCOp9LzwFae/GUUILKk6egBmC78g==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-f007eb33.js"></script>
   
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-F/8sNCLF603gJL0egQeZwFTYP9dfZAVEWHdjMssZ2opLZXRK08vgowBRzKyra6u9zU/rGVxe+igfJsSWzfO2lg==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-17ff2c34.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-xDmMfbDOi7C1qDeTcUUIjKfOAG5qhfSNSHRf7wT0crqnTCqtHlO1jBZmRSpjbpn4RyitzX75K0wQ/dpHqO/gAg==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-c4398c7d.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-obMR8mPKx8OvqRe34LgnUcxeJ1qujiA4ND3H6UX13ExMlA/WfHLjEzXRmgGRcRvN/8J1nzc+Z+jgz/PLTFy6zg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-a1b311f2.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-AVtc/43rg+h7XgMPOa+baO1Fj+uiMUrLHd16U6+c6Tk7atk70Ux4IcGRPOHqMv422QIJD7l7BhG2PL4G/tUVKg==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-015b5cff.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-biWH4OAQPiDiTkaeyDnXf6hHF3u3Mv3eaDEvt8AdT/QvWDpLbnusALT4ZO+f+DgYp07UiHxNRAB6/J7IwPW6TQ==" type="application/javascript" data-module-id="./chunk-lib.dev.js" data-src="https://github.githubassets.com/assets/chunk-lib.dev-6e2587e0.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-NwYkwzxETzKUYRXumHDsBIuggkh86KmJ1WrwWZW5wTvVPf047+wOmOHI5b4D65bfdtd3WbXJ7k+3ZWoxpIaqcA==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-370624c3.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-o7Wgi+lb9ce+9dvjWvB30ar51Bw0wcGhFZfQIzNGZfJ/7GZwYxVCsqgA4Q2o8yRq1QDUL1G1NxR0/3o9FoQ9JQ==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-a3b5a08b.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-tcH4xCRuMBAh1PruDaiwGnRIbHlF6bGLhxyCQ16uqok1cV5QFMguVPWJtN9KI0jGQOgN+Pha3+uOUXhXdfK/qw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-b5c1f8c4.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-E+H+wAtjiqutBvn2cnXzDIvmasIhYiS7i7JzOfFUwo+Ej8zT54OrJtP//RhwixnypgOpCF4JvqzYy6zOtORDmg==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-13e1fec0.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-rIWotuwsYxV+jXNuevOVsulW2zsw98Gi4j7KXrJZq+bWFV86Y/R75+1jMjt5k1MPgabdTPpWPI/IoESZhah9ng==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-ac85a8b6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-P4TJl8vmit2awffHeOfwscoWyj+xMvQBwQfL06P3Gy+5u9J9IYMgUJ4Ui+pbXNbJnAg6xQEZXUN4xk6PEGIrDg==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-3f84c997.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ZBICwPA18KYIgHbafqdjnTkxoCSNf/39rTlupkrtdpIWizECoux0ROzjAgyAx20Bf27VfshuBqrYwDqOVftyag==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-641202c0.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-QUtHMb3mxbE2DQSQZb9+tK8ZC2m05FFqZOa5ju2Sj0GdiQV+ce/bnIK/YwoMdty44NEhEIkZUIyh9DqLMsRedg==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-414b4731.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-su8FOuJFv0H16y8vmT+N3HiFpDQnHKiLz/UEdGxlCfgwnKBy202gaBmkcBpqXigRg+A8pMDXcSPIWSEW+IIKvQ==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-b2ef053a.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-B+TgAy+wlZmUjsDcWKt55BrTpxxZDolcD9v47x25Ue46lVb9c0n1tRz+BjjSeC4CuN9M3psDUpBhsr1aFKpFCw==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-07e4e003.js"></script>
-<script crossorigin="anonymous" defer="defer" integrity="sha512-Dl4JXoI2igFuQLn6MCPPgiS7TVx3c0/G8iaIZCNzgGi4Iwg8TC0y4LPT584yJ+r6ZsF5QIFL9uo+nhHdBvfLNQ==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-0e5e095e.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-kAubC2zgdOhVJIyMg/w5yyMOGfDBSC7Fum0HpKOtwiKkRMG5XxlUMKQxh4G4usCDw4mI4S1F8vVok4ueVvNrsg==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-900b9b0b.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-Ahh1vGV9jX7qzPdC1tA1y6PaLV9AbDPSlt2q8C7SUVVKTgoB5vDsUrKvaGh7Gj2Tv594XRcr0LjJdKA8HmL8iQ==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-021875bc.js"></script>
 
   <meta name="viewport" content="width=device-width">
   
@@ -61,11 +61,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/4927182/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTI3MTgyLCJzIjo2MDk4MDYwMjksImMiOjE4OTk3OTE5NjUsInQiOjE2MDg5MDUyNDF9--ec8dab4a37367b27897b95a56c39ad130055bb6321475e451baeea9920dcd90d" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/4927182/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTI3MTgyLCJzIjo2MDk4MDYwMjksImMiOjMzMzY3MjIwODIsInQiOjE2MTExMzAyMjh9--3e57e0aa3de8f1476bddc037da514396af6a7f64aa3d79a31d5457a12b45b90d" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="EBC4:A7E5:6323D98:8D4E021:5FE5F218" data-pjax-transient="true" /><meta name="html-safe-nonce" content="ccbd85998b6d2d10f3383b631940a9b07045e8b2a9ac5a391bb8f3b1d143f22b" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9PdHVzR29sYW5nL2hvbWVfd29yay90cmVlL21hc3Rlci9odzA1X3BhcmFsbGVsX2V4ZWN1dGlvbiIsInJlcXVlc3RfaWQiOiJFQkM0OkE3RTU6NjMyM0Q5ODo4RDRFMDIxOjVGRTVGMjE4IiwidmlzaXRvcl9pZCI6IjM4NDM1Nzg4NDA0ODYyMTQ2NDYiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="e37fa3e8be3c9444417b9c0bed85c28687564e0fb4ac57e4d58536c3ef4e6f67" data-pjax-transient="true" />
+  <meta name="request-id" content="D821:CAFC:9832B6:BD7C62:6007E571" data-pjax-transient="true" /><meta name="html-safe-nonce" content="ccbd85998b6d2d10f3383b631940a9b07045e8b2a9ac5a391bb8f3b1d143f22b" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9PdHVzR29sYW5nL2hvbWVfd29yay90cmVlL21hc3Rlci9odzA1X3BhcmFsbGVsX2V4ZWN1dGlvbiIsInJlcXVlc3RfaWQiOiJEODIxOkNBRkM6OTgzMkI2OkJEN0M2Mjo2MDA3RTU3MSIsInZpc2l0b3JfaWQiOiIzODQzNTc4ODQwNDg2MjE0NjQ2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="3e31bafcbde6f28190ffd7baaed6af40891edbc35f71f7222c5f777c004b1e77" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:241371612" data-pjax-transient>
 
@@ -89,7 +89,7 @@
 
 
 
-  <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;19512260014&quot;, &quot;key&quot;: &quot;separate_plans_and_usage&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;19509770036&quot;, &quot;key&quot;: &quot;control&quot;}], &quot;id&quot;: &quot;19536000020&quot;, &quot;key&quot;: &quot;account_billing_plans_and_usage&quot;, &quot;layerId&quot;: &quot;19545220022&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;19509770036&quot;, &quot;endOfRange&quot;: 2500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;19512260014&quot;, &quot;endOfRange&quot;: 7500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;1238720267648ea2c88a74b410aa3c5c&quot;: &quot;separate_plans_and_usage&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [&quot;19536000020&quot;], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [&quot;19536000020&quot;], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}], &quot;revision&quot;: &quot;380&quot;}" />
+  <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;19460063326&quot;, &quot;key&quot;: &quot;header_context&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;19433924756&quot;, &quot;key&quot;: &quot;control&quot;}], &quot;id&quot;: &quot;19408234268&quot;, &quot;key&quot;: &quot;account_settings_context&quot;, &quot;layerId&quot;: &quot;19516330675&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;19433924756&quot;, &quot;endOfRange&quot;: 1500}, {&quot;entityId&quot;: &quot;19433924756&quot;, &quot;endOfRange&quot;: 2500}, {&quot;entityId&quot;: &quot;19460063326&quot;, &quot;endOfRange&quot;: 3500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;19460063326&quot;, &quot;endOfRange&quot;: 6500}, {&quot;entityId&quot;: &quot;&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;2028a3925ba8b1b72aa300cb93a28d84&quot;: &quot;header_context&quot;, &quot;1238720267648ea2c88a74b410aa3c5c&quot;: &quot;header_context&quot;, &quot;ba4f3f8ac866baa78f1e12c3a9cdb73f&quot;: &quot;header_context&quot;, &quot;411debc027894d9d9b48b9ddc1405acb&quot;: &quot;header_context&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [&quot;19408234268&quot;], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [&quot;19408234268&quot;], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [&quot;19408234268&quot;], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}], &quot;revision&quot;: &quot;402&quot;}" />
   <!-- To prevent page flashing, the optimizely JS needs to be loaded in the
     <head> tag before the DOM renders -->
   <script crossorigin="anonymous" defer="defer" integrity="sha512-VJrqSK702Mzl9EQxm2OvFxKaumGptgVdeJS2rsaLvVlOdR4HEu3ZFjtV83kMKdYRelUnxxaAFw0wthkpdEUafw==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-549aea48.js"></script>
@@ -104,11 +104,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MDg3ZTZkYjk3YjA1ODE4NzgwZDU3ZjA0ZmM2ZWE2NmVkOWViOGI0NTZlN2QzNzAxM2U4YTM2YTMzMTBiOGE4Mnx7InJlbW90ZV9hZGRyZXNzIjoiOTIuMjU1LjIzMi4yNyIsInJlcXVlc3RfaWQiOiJFQkM0OkE3RTU6NjMyM0Q5ODo4RDRFMDIxOjVGRTVGMjE4IiwidGltZXN0YW1wIjoxNjA4OTA1MjQxLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="YWUyYTg2ZWJiMTk3YWFmZjE4Nzg3MDM5ZjM5ZmNlOGM0NjdkMjAyMGZiZGYyMGY1NDEwN2VlOWI2NWIwZDM4N3x7InJlbW90ZV9hZGRyZXNzIjoiOTIuMjU1LjIzMi4yNyIsInJlcXVlc3RfaWQiOiJEODIxOkNBRkM6OTgzMkI2OkJEN0M2Mjo2MDA3RTU3MSIsInRpbWVzdGFtcCI6MTYxMTEzMDIyOCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
-    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,ACTIONS_ENVIRONMENTS,ACTIONS_ENVIRONMENTS,TASK_LIST_AUTOCOMPLETE,MULTI_WORD_SUGGESTER">
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,TASK_LIST_AUTOCOMPLETE,MULTI_WORD_SUGGESTER">
 
-  <meta http-equiv="x-pjax-version" content="1229dbafd20c615f3370613f087a7a682edca9bf14dc490ca1172c6474648f71">
+  <meta http-equiv="x-pjax-version" content="bc0c0c058a849486fe233ba11e2bc18fcd149567b51466589f2906333f929462">
   
 
         <link href="https://github.com/OtusGolang/home_work/commits/master.atom" rel="alternate" title="Recent Commits to home_work:master" type="application/atom+xml">
@@ -133,7 +133,7 @@
   <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
 
 <meta name="theme-color" content="#1e2327">
-  <meta name="color-scheme" content="light dark">
+    <meta name="color-scheme" content="light dark">
 
 
   <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
@@ -175,7 +175,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-flagged-in="true" data-scope-type="Repository" data-scope-id="241371612" data-scoped-search-url="/OtusGolang/home_work/search" data-owner-scoped-search-url="/orgs/OtusGolang/search" data-unscoped-search-url="/search" action="/OtusGolang/home_work/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="241371612" data-scoped-search-url="/OtusGolang/home_work/search" data-owner-scoped-search-url="/orgs/OtusGolang/search" data-unscoped-search-url="/search" action="/OtusGolang/home_work/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -193,7 +193,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="iCW/jFB2efI7tM1QItiOuLF12dTV2L/rf9BFvLQcF05p4TvOvKUHI5E814l6QOW/mRujA7bBEnfPEUzOeKYrAg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="07QKxaqT40IdZ9Xy2uDCj4Red8ychLQL0y6/SS8zVe8ycI6HRkCdk7fvzyuCeKmIrDANG/+dGZdj77Y744lpow==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -273,7 +273,7 @@
   </a>
 </li>
 
-    
+  
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
@@ -367,9 +367,7 @@
       <div class="d-flex position-relative">
         <a class="js-selected-navigation-item Header-link flex-auto mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
           Marketplace
-</a>        
-
-      </div>
+</a>      </div>
 
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
       Explore
@@ -383,7 +381,7 @@
       <img class="avatar avatar-user" src="https://avatars2.githubusercontent.com/u/4927182?s=40&amp;v=4" width="20" height="20" alt="@Geekoon" />
       Geekoon
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gPpsrtxjwinhhel97X8CyA0oJeLzM8msqgHhck6NgfhoYgNPWHfu+sat7O5k6UT5si1JtwO9hJ43NvdzihQCiQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZOlOnTub7ayV116wJDf+yDxfoytEjB37ddB9DoN3OOKMcSF8v4/Bf7L/WyOtobj5g1rPfrQCUMno52sPR+67kw==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -403,7 +401,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDkyNzE4MiIsInQiOjE2MDg5MDUyNDF9--b9a54705dc5efb7d036f752890321dd36cb70e86d84f56165c60eea0fb48af53">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDkyNzE4MiIsInQiOjE2MTExMzAyMjh9--06ad4728454c70039ccc6913cc58ef71edb26f62c3a674b8300f04f1334a48c7">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -622,7 +620,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CK4y7BlvQ3M4BndRxfHiEjVNSYUcuLsGXpfme2QzJiQqWHb76WIQSqkSQywkw/a9bLM5bv9/wveKXQvGmmcQPA==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9LXZ+Eju1AtSfDx+7hIzMoezW8XCKaElAeT0tj5aqifWQ53vuOOHMsNoCAMPICed3k0rLiHu2NTVLhkLwA6cPw==" />
 
                 <input type="hidden" name="repository_id" value="241371612">
 
@@ -724,7 +722,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3iAGE5S32oyIQn0q8c5m1QGBgXIttzJIXpP2FpF9ksT81kIEZLqJtRlWSVcQ/HJ6WH/xmc5wS7mKWRurbymk3A==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aVGaMSLiQag+RoMhkgsKM842HQyDG9soFQq2Z2K/WSZLp94m0u8Ska9St1xzOR6cl8ht52DcotnBwFvanOtvPg==" />
 
               <input type="hidden" name="repository_id" value="241371612">
 
@@ -867,31 +865,31 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/OtusGolang/home_work/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="N06SiJguY56SP/lZr8We73BFYGD2JjEZQljPnPtYkd9BVALpdXomaJsPX0K2i1okv9rsFHqNQ7tMnKI+35wBow==" />
+    <form class="starred js-social-form" action="/OtusGolang/home_work/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yZ/Au/rF5FK9/0w2J++VCfyVKR990CfvWfIddcYic3y/hVDaF5GhpLTP6i0+oVHCMwqla/F7VU1XNnDX4ubjAA==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar OtusGolang/home_work" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:241371612,&quot;originating_url&quot;:&quot;https://github.com/OtusGolang/home_work/blob/master/hw05_parallel_execution/README.md&quot;,&quot;user_id&quot;:4927182}}" data-hydro-click-hmac="1777ba51135595fde8b3db69096ad4d7b6ef159d62761f959d138a4eea7fb105" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
           Unstar
 </span></button>        <a class="social-count js-social-count" href="/OtusGolang/home_work/stargazers"
-           aria-label="22 users starred this repository">
-           22
+           aria-label="24 users starred this repository">
+           24
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/OtusGolang/home_work/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0x/j73NVobfQqzqvDrL2V2n2DYX3/KMl565I/qRYNsoyvuUnTT2uaWVU6e4kg/UnCQ0iN1hytSvi2v6qxv60SA==" />
+    <form class="unstarred js-social-form" action="/OtusGolang/home_work/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xhc1gSC7nLDRrC2Yu4QpwDXB3xoxqhXPfXFW/Glt+Fe/tjNJHtOTbmRT/tmRtSqwVTrwqJ4kA8F4BeCoC8t61Q==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star OtusGolang/home_work" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:241371612,&quot;originating_url&quot;:&quot;https://github.com/OtusGolang/home_work/blob/master/hw05_parallel_execution/README.md&quot;,&quot;user_id&quot;:4927182}}" data-hydro-click-hmac="6abdd0504ec79c7dc11e740473b80b7b075c7ca21346ee746a5fa9b1c3cb4697" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
           Star
 </span></button>        <a class="social-count js-social-count" href="/OtusGolang/home_work/stargazers"
-           aria-label="22 users starred this repository">
-          22
+           aria-label="24 users starred this repository">
+          24
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/OtusGolang/home_work/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SBqpi5s+a781ZI99+h/V5GxAEoAnzKDN+DCITBN3tDHfjrPy6lIEA4tKjyRSSBnzbgewsiKf1mcZJEcQlSLGyA==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/OtusGolang/home_work/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Wflhmh5t4F9Qh89MN2OaQbrnMvajJReC8PSvQZczbjPObXvjbwGP4+6pzxWfNFZWuKCQxKZ2YSgR4GAdEWYcyg==" />
               <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:241371612,&quot;originating_url&quot;:&quot;https://github.com/OtusGolang/home_work/blob/master/hw05_parallel_execution/README.md&quot;,&quot;user_id&quot;:4927182}}" data-hydro-click-hmac="c3f1f1aa0e7113f5e5898e42421e274fb68444255ba08f99357e63d407c21eea" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of OtusGolang/home_work to your account" aria-label="Fork your own copy of OtusGolang/home_work to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
@@ -995,7 +993,7 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/OtusGolang/home_work/blob/83cdfc225deed1da0f25e8422630d949fde874e6/hw05_parallel_execution/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/OtusGolang/home_work/blob/b0ff036779c9e6eadaf8dc14b7ae6ae2c74d57b8/hw05_parallel_execution/README.md">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v22:35009e7a3ed18f25a45e2c16b37118b135ffb332ae2cbb39cd17d53108dcd1ca -->
 
@@ -1107,13 +1105,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/OtusGolang/home_work/edit/master/hw05_parallel_execution/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DNEQ2UKwjqn7861JxKUwmjfgRw5XduYFSY/kdydaTYt9oFCsV3zOibAiiNZaEJX+vV5hs2Y5LmDVGFIJzgkF/A==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/OtusGolang/home_work/edit/master/hw05_parallel_execution/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OpLjvKUOQ0tDoYwapmCeTQ0X6uNSM8vBfU6UEyciqepL46PJsMIDawhwqYU41Tsph6nMXmN8A6Th2SJtznHhnQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/OtusGolang/home_work/delete/master/hw05_parallel_execution/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3THgjmjBKJVcfq/14EHKuyfleq9W5uaDpCEE1K7cfAQOBdztTsqg2mFA3f2KAw9Iz6F6i3/bG+PjiiWh37Lh+Q==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/OtusGolang/home_work/delete/master/hw05_parallel_execution/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1Jly3qBtL5bN5QxX8vYBRpjISsxEeXBfJYsjvIRxeWQHrU69hman2fDbfl+YtMS1cIxK6G1EjT9iIALJ9R/kmQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1249,11 +1247,11 @@
 <div class="footer container-xl width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2020 GitHub, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:help" href="https://docs.github.com">Help</a></li>
     </ul>
 

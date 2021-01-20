@@ -61,11 +61,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/4927182/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTI3MTgyLCJzIjo2MDk4MDYwMjksImMiOjE0ODQ1ODM3OTMsInQiOjE2MTExMjg3OTF9--1ed583622a09f0e73c3a014838b5f51ebcd3a91ee3212898779bfbc3b7eeddce" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/4927182/ws?session=eyJ2IjoiVjMiLCJ1Ijo0OTI3MTgyLCJzIjo2MDk4MDYwMjksImMiOjM1MjI4MTg4NTksInQiOjE2MTExMzAxOTJ9--62d7e745ec913aa084a8fd175c496080977ef36c2167d8c9fbfa92f32539a133" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="D7A8:10502:A9FC99:D6ED4C:6007DFD7" data-pjax-transient="true" /><meta name="html-safe-nonce" content="ccbd85998b6d2d10f3383b631940a9b07045e8b2a9ac5a391bb8f3b1d143f22b" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9PdHVzR29sYW5nL2hvbWVfd29yay90cmVlL21hc3Rlci9odzA0X2xydV9jYWNoZSIsInJlcXVlc3RfaWQiOiJEN0E4OjEwNTAyOkE5RkM5OTpENkVENEM6NjAwN0RGRDciLCJ2aXNpdG9yX2lkIjoiMzg0MzU3ODg0MDQ4NjIxNDY0NiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="c406f056dc48de80f30c1b551059749a3cd3cb492f332390c0e3ed8c155b537e" data-pjax-transient="true" />
+  <meta name="request-id" content="D821:CAFC:9811F2:BD5472:6007E549" data-pjax-transient="true" /><meta name="html-safe-nonce" content="ccbd85998b6d2d10f3383b631940a9b07045e8b2a9ac5a391bb8f3b1d143f22b" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9PdHVzR29sYW5nL2hvbWVfd29yay90cmVlL21hc3Rlci9odzA0X2xydV9jYWNoZSIsInJlcXVlc3RfaWQiOiJEODIxOkNBRkM6OTgxMUYyOkJENTQ3Mjo2MDA3RTU0OSIsInZpc2l0b3JfaWQiOiIzODQzNTc4ODQwNDg2MjE0NjQ2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="686c70333f9e31078689eefe87d815237e40f00f79437d9d94888991bb9bd69a" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:241371612" data-pjax-transient>
 
@@ -104,7 +104,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YmZiNDc1ZjBkOGY0MGM2N2VhOTQyMGE4N2UyMTI5MDZjMWNmYzQwZmM4MDRhYzA2Nzk1NjY5NWNiMjM5ZjY0MXx7InJlbW90ZV9hZGRyZXNzIjoiOTIuMjU1LjIzMi4yNyIsInJlcXVlc3RfaWQiOiJEN0E4OjEwNTAyOkE5RkM5OTpENkVENEM6NjAwN0RGRDciLCJ0aW1lc3RhbXAiOjE2MTExMjg3OTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="YjJmYjZkM2QwOWY3ZjQ1MWY4Nzk0ZTc2MTgxNjJlOWQyYzUyOThlYjI3MzYxOTBhMTVlZmM5MGFmMGZiMzg0Y3x7InJlbW90ZV9hZGRyZXNzIjoiOTIuMjU1LjIzMi4yNyIsInJlcXVlc3RfaWQiOiJEODIxOkNBRkM6OTgxMUYyOkJENTQ3Mjo2MDA3RTU0OSIsInRpbWVzdGFtcCI6MTYxMTEzMDE5MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,TASK_LIST_AUTOCOMPLETE,MULTI_WORD_SUGGESTER">
 
@@ -193,7 +193,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="wj3gW/9kC7kde0LmV7qs09l+StfP3kTMvLtFiCCc/Ncj+WQZE7d1aLfzWD8PIsfU8RAwAKzH6VAMekz67CbAmw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="inf3xIV0hMWY32u4aDWwIf0fSqqYCwleJOIx+SUihxBrs3OGaaf6FDJXcWEwrdsm1XEwffsSpMKUIziL6Zi7XA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -381,7 +381,7 @@
       <img class="avatar avatar-user" src="https://avatars2.githubusercontent.com/u/4927182?s=40&amp;v=4" width="20" height="20" alt="@Geekoon" />
       Geekoon
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="D8jGo04+2sGwZnrY0Iu1jzx6vrpZapUK7+3GmJEZRKXnUKlCyir2EpdOf0tZHfO+g3/S76nk2Dhy2tCZVYDH1A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="/t0Ggy0lyCX7Gv/hcm1A1WRxtzoCW94iGM9wwM5jfIAWRWliqTHk9twy+nL7+wbk23Tbb/LVkxCF+GbBCvr/8Q==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -401,7 +401,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDkyNzE4MiIsInQiOjE2MTExMjg3OTF9--aecdf42079c1a916532740c54dc87fdbd537345ce5279c40c1b04090ac6effe4">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDkyNzE4MiIsInQiOjE2MTExMzAxOTJ9--87399de3d76c8132ce147d7b5fdca1833503dd4227f2c29b4a21207ec9b0d028">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -620,7 +620,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1x6cSU1VyXwCtyzvqUoApFsYw/fgxgrlIwV+RA5YWPv16NhevViaRZOjGJJIeBQLAuazHAMBcxT3z5P58Axu4w==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="34rkKTypoQv1U24HhkSAgz3WFXlexTi0sT+pODB8AsP9fKA+zKTyMmRHWnpndpQsZChlkr0CQUVl9USFzig02w==" />
 
                 <input type="hidden" name="repository_id" value="241371612">
 
@@ -722,7 +722,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OEZ4cpnQMOH6Reii/pPjdlBY7939bK8qaYZYVS8uMUMasDxlad1j2GtR3N8foffZCaafNh6r1tu9TLXo0XoHWw==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yFAFil4XXAcaJWwvxywusYK/YCywUGHJDtXpRGOT1v/qpkGdrhoPPosxWFImHjoe20EQx1OXGDjaHwT5ncfg5w==" />
 
               <input type="hidden" name="repository_id" value="241371612">
 
@@ -865,7 +865,7 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/OtusGolang/home_work/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8yv/wKFv20PxO28JHSZsED3VPgJRj4m8AsEZjUsxq1+FMW+hTDuetfgLyRIEaKjb8kqydt0k+x4MBXQvb/U7Iw==" />
+    <form class="starred js-social-form" action="/OtusGolang/home_work/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zJwT3ew6Jsy/TxDLGSlgDoTKcw7M1cZJXOaRU7pLsBa6hoO8AW5jOrZ/ttAAZ6TFS1X/ekB+tOtSIvzxno8gag==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar OtusGolang/home_work" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:241371612,&quot;originating_url&quot;:&quot;https://github.com/OtusGolang/home_work/blob/master/hw04_lru_cache/README.md&quot;,&quot;user_id&quot;:4927182}}" data-hydro-click-hmac="8659473eac045e7a0e6fefcf11fab5ad1545e11fb4484486d2f97da89bd19112" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
@@ -875,7 +875,7 @@
            24
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/OtusGolang/home_work/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ABl6HlvR0IqvaguN68+XTF47XKPYuP+leduJu30ApoDhuHzWZbnfVBqV2MzB/pQ8PsBzEXc26at8rz/vH6YkAg==" />
+    <form class="unstarred js-social-form" action="/OtusGolang/home_work/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="K6404YYVtdZ9V46J5/RzD0t45Ux5oND451Hf2x72TJHKDzIpuH26CMioXcjNxXB/K4PK/tYuxvbiJWmPfFDOEw==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star OtusGolang/home_work" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:241371612,&quot;originating_url&quot;:&quot;https://github.com/OtusGolang/home_work/blob/master/hw04_lru_cache/README.md&quot;,&quot;user_id&quot;:4927182}}" data-hydro-click-hmac="54b97bbc178a35f4988e9d37e8b8445c947046dc04926384f9e8fecd337a8e9b" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
@@ -889,7 +889,7 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/OtusGolang/home_work/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4YQevRDCuBQ997KzKMt9ruo5t/ZxpwV8RdxjxgGR4kl2EATEYa7XqIPZsuqAnLG56H4VxHT0c9akyKyah8SQsA==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/OtusGolang/home_work/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jo4k8yqbWjKEArjdhYpY7HF3CQ0LaaxDrOadz8CQyuAZGj6KW/c1jjosuIQt3ZT7czCrPw462ulN8lKTRsW4GQ==" />
               <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:241371612,&quot;originating_url&quot;:&quot;https://github.com/OtusGolang/home_work/blob/master/hw04_lru_cache/README.md&quot;,&quot;user_id&quot;:4927182}}" data-hydro-click-hmac="cd34ba8969edf16efcac2a87d38e907400ad71b9b02f05a45f8bcf7735c291a6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of OtusGolang/home_work to your account" aria-label="Fork your own copy of OtusGolang/home_work to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
@@ -1105,13 +1105,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/OtusGolang/home_work/edit/master/hw04_lru_cache/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OnHfXnkcfWXzVgw8nNQ47MBmAz5k8AWvrNl5+XKKLb5XjHoj9cfE9sn2qsSEFgdoSYk+4x/CX7fqzNL/XYTpZQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/OtusGolang/home_work/edit/master/hw04_lru_cache/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WFcSE6GtomfyGWfhU0G6LE8N5fhrG7WN58GSrM5EiP41qrduLXYb9Mi5wRlLg4WoxuLYJRAp75Wh1Dmq4UpMJQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/OtusGolang/home_work/delete/master/hw04_lru_cache/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iwrbSMs4hBfPYqgR18RLWFg805oRmobqRZDOCZSBOlwcijvk2JZHlywOzMonJuNWgcqRbm/AQ+/xMGz7naUEjQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/OtusGolang/home_work/delete/master/hw04_lru_cache/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XrGELV1cWitMBmLCnwqk31MAph65nhs0U21KgVqdB0HJMWSBTvKZq69qBhlv6AzRivbk6sfE3jHnzehzU7k5kA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
