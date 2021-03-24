@@ -1,6 +1,7 @@
 package hw04_lru_cache //nolint:golint,stylecheck
 
 import (
+	"fmt"
 	"testing"
 
 	"github.com/stretchr/testify/require"
@@ -9,18 +10,70 @@ import (
 func TestList(t *testing.T) {
 	t.Run("empty list", func(t *testing.T) {
 		l := NewList()
-
 		require.Equal(t, 0, l.Len())
 		require.Nil(t, l.Front())
 		require.Nil(t, l.Back())
+	})
+
+	t.Run("front only with 3 elements", func(t *testing.T) {
+		l := NewList()
+
+		l.PushFront(10) // [10]
+		l.PushFront(20)  // [20, 10]
+		l.PushFront(30)  // [30, 20, 10]
+		require.Equal(t, 30, l.Front().Value)
+		require.Equal(t, 10, l.Back().Value)
+		require.Equal(t, l.Front().Next, l.Back().Prev)
+	})
+
+	t.Run("front&back with 3 elements", func(t *testing.T) {
+		l := NewList()
+
+		l.PushFront(10) // [10]
+		l.PushBack(20)  // [10, 20]
+		l.PushBack(30)  // [10, 20, 30]
+		require.Equal(t, 10, l.Front().Value)
+		require.Equal(t, 30, l.Back().Value)
+		require.Equal(t, l.Front().Next, l.Back().Prev)
+	})
+
+	t.Run("Remove first & last", func(t *testing.T) {
+		l := NewList()
+		l.PushFront(10) // [10]
+		l.PushBack(20)  // [10, 20]
+		l.PushBack(30)  // [10, 20, 30]
+		l.PushBack(40)  // [10, 20, 30, 40]
+		l.Remove(l.Front())
+		require.Equal(t, 20, l.Front().Value)
+		l.Remove(l.Back())
+		require.Equal(t, 30, l.Back().Value)
+		require.Equal(t, 2, l.Len())
+	})
+
+	t.Run("Remove all except one in the middle", func(t *testing.T) {
+		l := NewList()
+		l.PushFront(10) // [10]
+		l.PushBack(20)  // [10, 20]
+		l.PushBack(30)  // [10, 20, 30]
+		l.Remove(l.Front())
+		l.Remove(l.Back())
+		require.Equal(t, 20, l.Front().Value)
+		require.Equal(t, 20, l.Back().Value)
+		require.Equal(t, 1, l.Len())
 	})
 
 	t.Run("complex", func(t *testing.T) {
 		l := NewList()
 
 		l.PushFront(10) // [10]
+		fmt.Printf("List: %+v\n", l)
+		fmt.Printf("Front=%+v, Back=%+v\n", l.Front(), l.Back())
 		l.PushBack(20)  // [10, 20]
+		fmt.Println(l)
+		fmt.Printf("Front=%+v, Back=%+v\n", l.Front(), l.Back())
 		l.PushBack(30)  // [10, 20, 30]
+		fmt.Println(l)
+		fmt.Printf("Front=%+v, Back=%+v\n", l.Front(), l.Back())
 		require.Equal(t, 3, l.Len())
 
 		middle := l.Front().Next // 20
